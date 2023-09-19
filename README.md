@@ -8,13 +8,13 @@ ZenNotes is a simple note taking application that allows you to create, edit, an
 
 To install ZenNotes, clone the repository to your local machine. Then,
 
-    1. Navigate to the backend directory of the project and run the following command to install the dependencies:
+1. Navigate to the backend directory of the project and run the following command to install the dependencies:
 
     ```bash
     npm install 
     ```
 
-    2. Navigate to the frontend directory of the project and run the following command to install the dependencies:
+2. Navigate to the frontend directory of the project and run the following command to install the dependencies:
 
     ```bash
     npm install 
